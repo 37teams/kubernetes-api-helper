@@ -5,7 +5,7 @@
     "url": "https://github.com/Gumspace/kubernetes-api-helper/issues"
   },
   "dependencies": {
-    "@kubernetes/client-node": "~0.3.0"
+    "@kubernetes/client-node": "^0.7.1"
   },
   "homepage": "https://github.com/Gumspace/kubernetes-api-helper#readme",
   "license": "ISC",
